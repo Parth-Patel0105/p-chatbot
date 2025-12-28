@@ -9,7 +9,7 @@ A production-ready, Streamlit-powered conversational AI chatbot that enables fas
 ---
 
 ## 🌐 Live Demo
-**Website:** (https://dataretriever.streamlit.app/)
+**Website:** https://dataretriever.streamlit.app/
 
 ---
 
